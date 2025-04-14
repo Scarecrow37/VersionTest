@@ -1,2 +1,2 @@
-PLACEHOLDER_TEXT
+Final version of the intended text goes here.
 TODO: Replace with meaningful text
